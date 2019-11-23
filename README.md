@@ -2,26 +2,21 @@ Keyboard Commands
 
 Action | Keys
 --- | ---
-Copy Item | cmd + C
-Paste Item | cmd + V
+Copy Item | Cmd + C
+Paste Item | Cmd + V
 Nudge Items | Up Down Left Right
-Open / Close Script Editor |  cmd + K
-Open / Close Device View | cmd + U
-Open / Close Project Tree | cmd + P 
-Open / Close Inspector View | cmd + I 
-Load / Open project file  | cmd + O 
-Save project file | cmd + S
+Open / Close Script Editor |  Cmd + K
+Open / Close Device View | Cmd + U
+Open / Close Project Tree | Cmd + P 
+Open / Close Inspector View | Cmd + I 
+Load / Open project file  | Cmd + O 
+Save project file | Cmd + S
 
 Mouse Commands
 
 Action | Keys
 --- | ---
-Zoom Device View | alt + mouse scroll
-Move "Container" | ctrl + left click
+Zoom Device View | Alt + Mouse Scroll
+Move "Container" | Ctrl + Left Click
 
 
-
-
-Notes:
-
-Text_Input is bugged, and will cause the app to crash, so keep away from that one.
