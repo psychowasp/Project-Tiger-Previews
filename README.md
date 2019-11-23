@@ -1,21 +1,15 @@
-Keyboard Commands
+
 Action | Keys
 --- | ---
-Copy Item | cmd c
+Copy Item | cmd+c
 Paste Item | cmd v
-
 Nudge items | up down left right
-
 Open / close Script Editor |  cmd + k
+Open | close Device View - cmd + u
+Open | close Project Tree - cmd + p 
+Open | close Inspector View - cmd + I 
+Load | Open project file  - cmd + o 
 
-Open / close Device View - cmd + u
-
-Open / close Project Tree - cmd + p 
-
-Open / close Inspector View - cmd + I 
-
-Load / Open project file  - cmd + o 
-(Or use File menu)
 
 Save project file - cmd + s 
 (Or use File menu)
